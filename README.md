@@ -18,5 +18,5 @@ Mobile application for **Next Level Gaming & Esports Arena** (Johannesburg), bui
 3. Scan the QR code with the Expo Go app
 
 ## Links
-- Video demonstration (YouTube, unlisted): to be added
-- PowerPoint presentation: to be added
+- Video demonstration (YouTube, unlisted): https://youtube.com/shorts/CsegLH4AeRU?feature=share
+- PowerPoint presentation: [NextLevelGaming_Presentation.pptx](NextLevelGaming_Presentation%20%284%29%20%282%29.pptx)
